@@ -12,3 +12,17 @@ Multi-AGV Simulator with visualization (Running MultiAGVSimulation.py)
 Performance Comparison with plots (Running PerformanceComparison.py)
 
 Research Paper Reference (PDF provided)
+
+Requirements
+
+Python 3.8+
+
+numpy
+
+matplotlib
+
+networkx
+
+pulp (for linear programming)
+
+pygame
